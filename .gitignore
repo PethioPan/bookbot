@@ -2,3 +2,6 @@
 .idea/
 .idea/*
 .env
+/books
+__pycache__/
+.DS_Store
